@@ -9,7 +9,8 @@
     "svelte": "src/index.js",
     "exports": {
         ".": {
-            "svelte": "./src/index.js"
+            "svelte": "./src/index.js",
+            "import": "./src/index.js"
         }
     },
     "types": "src/index.d.ts",
